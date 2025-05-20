@@ -1,0 +1,10 @@
+# CHEM
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| CHEM 40A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer2/blob/main/overall/CHEM%2040A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer2/main/plot_overall/CHEM%2040A.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer2/main/plot_overall_wide/CHEM%2040A.png) |  |
+| CHEM 40B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer2/blob/main/overall/CHEM%2040B.csv) |  |
+| CHEM 41B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer2/blob/main/overall/CHEM%2041B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer2/main/plot_overall/CHEM%2041B.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer2/main/plot_overall_wide/CHEM%2041B.png) |  |
+| CHEM 6A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer2/blob/main/overall/CHEM%206A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer2/main/plot_overall/CHEM%206A.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer2/main/plot_overall_wide/CHEM%206A.png) |  |
+| CHEM 6B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer2/blob/main/overall/CHEM%206B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer2/main/plot_overall/CHEM%206B.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer2/main/plot_overall_wide/CHEM%206B.png) |  |
+| CHEM 6C | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Summer2/blob/main/overall/CHEM%206C.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer2/main/plot_overall/CHEM%206C.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Summer2/main/plot_overall_wide/CHEM%206C.png) |  |
